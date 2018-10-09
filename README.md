@@ -7,10 +7,10 @@ In the previous section, you learned about how to apply permutations. Permutatio
 
 ## Objectives
 
-After this section, you'll
+You will be able to: 
 
-- understand how combinations are used when the order is not important
-- be able to use and interpret the mathematical formula of combinations
+- Understand how combinations are used when the order is not important
+- Be able to use and interpret the mathematical formula of combinations
 
 
 ## Why combinations?
@@ -32,7 +32,3 @@ Note how *6* in our Michael Jackson example $= 6 = 3!$, as expected.
 ##  Summary
 
 In this section, you learned what combinations are and how to use them. let's put this knowledge into practice!
-
-## Sources
-
-https://brilliant.org/wiki/combinations/
