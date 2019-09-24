@@ -3,14 +3,14 @@
 
 ## Introduction
 
-In the previous section, you learned about how to apply permutations. Permutations come in handy when we want to know how many ways we can order sets. Now what if order is not important? That's where *combinations* come in.
+In the previous section, you learned about how to apply permutations. Permutations come in handy when we want to know how many ways we can order sets. Now, what if order is not important? That's where *combinations* come in.
 
 ## Objectives
 
 You will be able to: 
 
 - Understand how combinations are used when the order is not important
-- Be able to use and interpret the mathematical formula of combinations
+- Be able to use and interpret the mathematical formula for combinations
 
 
 ## Why combinations?
@@ -22,7 +22,7 @@ Let's go back to our example of a coverband creating a setlist. Imagine that the
 
 You can use a backward rationale here. You know that when order *did* matter, our answer was $8*7*6$. When having three elements, there are 6 possible orders (ABC, ACB, CAB, CBA, BAC, BCA), so the answer can be obtained by dividing our previous answer by 6. 
 
-This type of problem setting can be solved by using *combinations*.
+This type of problem can be solved by using *combinations*.
 In general, combinations answer the question: "How many ways can we create a subset $k$ out of $n$ objects?". The subset is not ordered. 
 
 $$\displaystyle\binom{n}{k} = \dfrac{P_{k}^{n}}{k!}=\dfrac{ \dfrac{n!}{(n-k)!}}{k!} = \dfrac{n!}{(n-k)!k!}$$
