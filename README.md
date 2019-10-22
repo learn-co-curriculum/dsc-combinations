@@ -9,8 +9,7 @@ In the previous section, you learned about how to apply permutations. Permutatio
 
 You will be able to: 
 
-- Understand how combinations are used when the order is not important
-- Be able to use and interpret the mathematical formula for combinations
+* Describe how combinations are used when order is not important
 
 
 ## Why combinations?
