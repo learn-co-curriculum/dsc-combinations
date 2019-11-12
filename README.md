@@ -26,7 +26,11 @@ In general, combinations answer the question: "How many ways can we create a sub
 
 $$\displaystyle\binom{n}{k} = \dfrac{P_{k}^{n}}{k!}=\dfrac{ \dfrac{n!}{(n-k)!}}{k!} = \dfrac{n!}{(n-k)!k!}$$
 
-Note how *6* in our coverband example $= 6 = 3!$, as expected.
+Applied to our example, this means that there are 
+
+$$  \dfrac{8!}{(8-3)!3!} = \dfrac{8!}{(8-3)!3!} =\dfrac{ 8*7*6}{6} = 56 $$.
+
+so there are 56 ways to choose 3 songs out of an 8 song repertoire.
 
 ##  Summary
 
