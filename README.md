@@ -28,7 +28,7 @@ In general, combinations answer the question: "How many ways can we create a sub
 
 Applied to our example, this means that there are 
 
- <img src="https://render.githubusercontent.com/render/math?math=\dfrac{8!}{(8-3)!3!} = \dfrac{8!}{(8-3)!3!} =\dfrac{ 8*7*6}{6} = 56 "> .
+ <img src="https://render.githubusercontent.com/render/math?math=\dfrac{8!}{(8-3)!3!} = \dfrac{8!}{(8-3)!3!} =\dfrac{ 8*7*6}{6} = 56 "> 
 
 so there are 56 ways to choose 3 songs out of an 8 song repertoire.
 
